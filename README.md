@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragboghara&label=Profile%20views&color=0e75b6&style=flat" alt="chiragboghara" /> </p>
 
-google-site-verification: google9dcf347fd94a0037.html
+<meta name="google-site-verification" content="google-site-verification: google9dcf347fd94a0037.html">
 
 - 🌱 I’m currently learning **more about Flutter and web development.**
 
