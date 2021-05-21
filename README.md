@@ -19,7 +19,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/684px-Android_logo_2019.svg.png" alt="android" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.peninfotech.com/img/logos/c%20logo.png" alt="c" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Devicon-css3-plain-wordmark.svg/1200px-Devicon-css3-plain-wordmark.svg.png" alt="css3" width="40" height="40"/> </a> &nbsp;
