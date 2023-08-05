@@ -5,9 +5,9 @@
 
 <meta name="google-site-verification" content="google-site-verification: google9dcf347fd94a0037.html">
 
-- 🌱 I’m currently learning **more about Flutter and web development.**
+- 🌱 I’m currently learning **more about Web development.**
 
-- 💬 Ask me about **Flutter or any tech related stuff.**
+- 💬 Ask me about **Web or any tech related stuff.**
 
 - 📫 How to reach me **chiragbogharait@gmail.com**
 
