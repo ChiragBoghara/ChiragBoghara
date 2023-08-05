@@ -22,6 +22,7 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.peninfotech.com/img/logos/c%20logo.png" alt="c" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Devicon-css3-plain-wordmark.svg/1200px-Devicon-css3-plain-wordmark.svg.png" alt="css3" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="40"/> </a> 
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
