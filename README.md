@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Boghara</h1>
-<h3 align="center">A passionate Web & Flutter developer from India ...!!!</h3>
+<h3 align="center">A passionate Full-stack developer and problem solver from India ...!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragboghara&label=Profile%20views&color=0e75b6&style=flat" alt="chiragboghara" /> </p>
 
